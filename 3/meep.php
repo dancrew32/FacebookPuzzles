@@ -4,3 +4,4 @@
 //if ($file == null) return;
 $meep = "Meep meep!\n";
 fwrite(STDOUT, $meep);
+return;
